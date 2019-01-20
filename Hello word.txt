@@ -1,3 +1,5 @@
  print 'hello word'
 
 print 'hello Aleksey'
+
+print "у меня финансовое изобилие и благополучие"
