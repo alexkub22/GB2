@@ -1,0 +1,5 @@
+print'1'
+
+Print ' my word loves me'
+
+print ' € объ€вл€ю финансовое изобилие и благополучие'
